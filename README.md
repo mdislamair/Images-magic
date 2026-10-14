@@ -104,7 +104,7 @@ image-steganography-tool
 <h2>🚀 Run Project Locally</h2>
 
 <pre>
-git clone https://github.com/mdnosibulislam/Images-magic.git
+git clone https://github.com/mdislamair/Images-magic.git
 </pre>
 
 <p>
@@ -133,7 +133,7 @@ This project was created with the assistance of <b>ChatGPT</b> using a no-code g
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge">
 </a>
 
-<a href="https://github.com/mdnosibulislam">
+<a href="https://github.com/mdislamair">
 <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge">
 </a>
 
